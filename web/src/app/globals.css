@@ -1,0 +1,69 @@
+@import "tailwindcss";
+
+/* Color system for luxury gem brand */
+:root {
+  --background: #0d0f12; /* charcoal */
+  --foreground: #e7e7e7; /* light gray */
+  --surface: #111319; /* slightly lighter charcoal */
+  --primary: #d4af37; /* gold */
+  --primary-contrast: #0b0e14;
+  --muted: #8a8f98;
+  --navy: #0b1b2b; /* deep navy */
+  --danger: #ef4444;
+  --success: #22c55e;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --background: #ffffff;
+    --foreground: #171717;
+    --surface: #f7f7f8;
+  }
+}
+
+/* Tailwind v4 theme tokens via @theme inline */
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-primary: var(--primary);
+  --color-muted: var(--muted);
+
+  --font-sans: var(--font-inter);
+  --font-serif: var(--font-playfair);
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+  letter-spacing: 0.2px;
+}
+
+p {
+  color: var(--foreground);
+}
+
+/* Utility classes specific to brand */
+.container-padding {
+  padding-left: clamp(16px, 5vw, 48px);
+  padding-right: clamp(16px, 5vw, 48px);
+}
+
+.gold-gradient {
+  background: linear-gradient(135deg, #b9932f 0%, #d4af37 35%, #f6e27a 50%, #d4af37 65%, #b9932f 100%);
+}
+
+.glass {
+  background: color-mix(in srgb, var(--surface) 70%, transparent);
+  border: 1px solid color-mix(in srgb, var(--foreground) 12%, transparent);
+  backdrop-filter: blur(8px);
+}
