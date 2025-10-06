@@ -1,0 +1,133 @@
+Project Title: International E-Commerce Website for a Premier Sri Lankan Gem Trader
+1. Core Objective:
+To design and develop a sophisticated, trustworthy, and visually stunning e-commerce website to showcase and sell high-quality, ethically sourced Sri Lankan gemstones to an international clientele. The primary goal is to build a strong online brand presence, establish trust with overseas buyers, and facilitate secure international transactions.
+
+2. Target Audience:
+
+International gem collectors and connoisseurs.
+
+Luxury jewelry designers and brands worldwide.
+
+Wholesale gem buyers.
+
+Individuals seeking high-value gemstones for investment or personal use (e.g., engagement rings).
+
+They value authenticity, quality certification, ethical sourcing, and a seamless, secure purchasing experience.
+
+3. Key Website Pages & Features:
+
+Homepage:
+
+Hero Section: A full-screen, high-resolution video or image showcasing a signature gemstone (like a Ceylon Sapphire).
+
+Value Proposition: Clear, concise headline like "The World's Finest Ceylon Sapphires, Direct from the Source."
+
+Featured Gems: A curated gallery of new arrivals or best-selling stones.
+
+Trust Signals: Prominently display logos of certifications (GIA, etc.) and memberships in gemological associations.
+
+"Our Story" Teaser: A brief section linking to the full "About Us" page.
+
+Gemstone Gallery / Shop:
+
+Professional Listings: Each gem must have high-quality, well-lit photos and a 360-degree video on a clean background.
+
+Detailed Information: For each stone, display: Gem Type, Carat Weight, Dimensions, Color, Cut, Clarity, Origin (Sri Lanka), Treatment, and Price (in USD).
+
+Advanced Filtering & Sorting: Users MUST be able to filter by:
+
+Gemstone Type (Sapphire, Ruby, Spinel, etc.)
+
+Color
+
+Carat Size Range
+
+Price Range
+
+Shape (Oval, Round, Cushion, etc.)
+
+Certification: A clear icon indicating if a stone is certified, with the ability to view the certificate (PDF or image).
+
+Product Detail Page:
+
+An expanded view of the selected gem with a gallery of multiple images and the 360-degree video.
+
+All specifications listed clearly.
+
+A prominent "Add to Cart" or "Inquire" button.
+
+Details on secure shipping, insurance, and return policy.
+
+Our Story / About Us:
+
+Tell the story of your business heritage and expertise in the Sri Lankan gem industry.
+
+Include photos of the founders, the team, or the region.
+
+Emphasize your connection to the local mining communities and your commitment to the craft.
+
+Ethical Sourcing & The Journey of a Gem:
+
+A dedicated page explaining your commitment to ethical, conflict-free sourcing.
+
+Visually map out the process: from the mine, to cutting & polishing, to certification and final sale. This builds immense trust.
+
+Education / Gemstone Guide:
+
+Simple articles or infographics explaining the "4 Cs" (Cut, Color, Clarity, Carat).
+
+A guide to the famous gemstones of Sri Lanka (especially Ceylon Sapphires).
+
+Information on gemstone care.
+
+Contact Page:
+
+A simple contact form.
+
+Business email address, phone number (with international dialing code).
+
+Physical address in Sri Lanka with an embedded Google Map.
+
+4. E-Commerce Functionality:
+
+Secure Shopping Cart & Checkout: A clean, multi-step checkout process.
+
+International Payment Gateway: Integration with a globally recognized provider like Stripe or PayPal to accept major credit cards.
+
+Currency Switcher: Ability for users to view prices in major currencies (USD, EUR, GBP). USD should be the default.
+
+Secure International Shipping: Integration with a reliable courier like FedEx or DHL, with options for insured shipping calculated at checkout.
+
+5. Design & Aesthetics:
+
+Look & Feel: Luxurious, elegant, clean, and professional. The design should feel as high-end as the products themselves.
+
+Color Palette: A sophisticated palette of dark charcoal, deep navy blue, or black, accented with gold, silver, or white to make the gemstone colors pop.
+
+Typography: A classic, elegant serif font (like Playfair Display or Garamond) for headings and a clean, readable sans-serif font (like Inter, Lato, or Montserrat) for body text.
+
+Imagery: All photography and videography must be of the highest professional quality. This is non-negotiable.
+
+6. Technical Requirements:
+
+Fully Responsive: The website must look and function perfectly on desktops, tablets, and mobile phones.
+
+SEO Optimized: Built with SEO best practices to rank for keywords like "buy Ceylon Sapphire online," "Sri Lankan gemstones," etc.
+
+Fast Loading Speeds: Optimized images and code to ensure the site loads quickly worldwide.
+
+SSL Certificate: Must be secured with HTTPS for user trust and data protection.
+
+7. Content Management System (CMS):
+
+User-Friendly Backend: The website must be built on a robust and intuitive CMS (like Shopify, or WordPress with WooCommerce) that allows for easy updates without technical knowledge.
+
+Editable Content: The client must be able to easily:
+
+Manage Inventory: Add, edit, delete, and mark gemstones as "sold." This includes updating all photos, videos, and specifications for each stone.
+
+Update Pages: Edit the text and images on pages like "Our Story," "Ethical Sourcing," and the homepage.
+
+Publish Articles: Add new posts to the "Education / Gemstone Guide" section.
+
+Manage Orders: View and process incoming orders and customer inquiries.
